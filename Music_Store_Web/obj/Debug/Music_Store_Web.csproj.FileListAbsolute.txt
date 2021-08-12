@@ -1,0 +1,7 @@
+E:\prn9\Music_Store_Web\bin\Music_Store_Web.dll.config
+E:\prn9\Music_Store_Web\bin\Music_Store_Web.dll
+E:\prn9\Music_Store_Web\bin\Music_Store_Web.pdb
+E:\prn9\Music_Store_Web\obj\Debug\Music_Store_Web.csproj.AssemblyReference.cache
+E:\prn9\Music_Store_Web\obj\Debug\Music_Store_Web.csproj.CoreCompileInputs.cache
+E:\prn9\Music_Store_Web\obj\Debug\Music_Store_Web.dll
+E:\prn9\Music_Store_Web\obj\Debug\Music_Store_Web.pdb
